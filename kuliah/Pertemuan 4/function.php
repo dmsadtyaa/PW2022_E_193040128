@@ -13,7 +13,7 @@
 </head>   
 <body>
 
-    <h1><?= salam("Pagi", "Dimas Aditya"); ?> </h1>
+    <h1><?= salam("Pagi", "Dims Aditya"); ?> </h1>
 
 </body>
 </html>
