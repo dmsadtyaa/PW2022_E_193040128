@@ -26,7 +26,7 @@
     // echo date("l", mktime(0,0,0,4,24,2001));
 
     // Strtotime
-    echo date ("l", strtotime("24 April 2001"));
+    echo date ("l", strtotime("03 Oktober 2001"));
 
 
 ?>
